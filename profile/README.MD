@@ -3,7 +3,7 @@
 Below take a sneak peak of our work :)
 
 ## BalanceBoard
-https://github.com/Attivita-di-laboratorio-RAMS/BalanceBoardMenu/assets/69402496/176d395e-108e-4590-bf1a-e028eafd741d
+https://github.com/Attivita-di-laboratorio-RAMS/BalanceBoardMenu/assets/69402496/9bf58e5f-ee3f-4bd6-967d-269e7efe54b9
 
 ## DriveSim
 ![image](https://github.com/Attivita-di-laboratorio-RAMS/DriveSimMenu/assets/150829640/34768020-001f-427b-9da6-b27454d06b63)
